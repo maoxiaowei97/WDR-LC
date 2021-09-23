@@ -1,4 +1,4 @@
-# SIGSPATIAL-2021-GISCUP-5th-Solution
+# Estimated Time of Arrival Prediction via Modeling the Spatial-Temporal Interactions between Links and Crosses (GIS Cup)
 **Competition Page**: [DiDi-ETA](https://www.biendata.xyz/competition/didi-eta/)
 ## Feature Generation
 
